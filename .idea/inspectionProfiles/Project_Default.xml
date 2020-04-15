@@ -1,0 +1,123 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CoffeeScriptArgumentsOutsideFunction" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CoffeeScriptFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="CoffeeScriptInfiniteLoop" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CoffeeScriptLiteralNotFunction" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CoffeeScriptSillyAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CoffeeScriptSwitchStatementWithNoDefaultBranch" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CoffeeScriptUnusedLocalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CssInvalidPropertyValue" enabled="true" level="INFO" enabled_by_default="true" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="false" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="rpx" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="EmptyEventHandler" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="41">
+            <item index="0" class="java.lang.String" itemvalue="class" />
+            <item index="1" class="java.lang.String" itemvalue="style" />
+            <item index="2" class="java.lang.String" itemvalue="hover-class" />
+            <item index="3" class="java.lang.String" itemvalue="url" />
+            <item index="4" class="java.lang.String" itemvalue="bindtap" />
+            <item index="5" class="java.lang.String" itemvalue="bindchange" />
+            <item index="6" class="java.lang.String" itemvalue="bindreset" />
+            <item index="7" class="java.lang.String" itemvalue="bindload" />
+            <item index="8" class="java.lang.String" itemvalue="binderror" />
+            <item index="9" class="java.lang.String" itemvalue="bindsubmit" />
+            <item index="10" class="java.lang.String" itemvalue="bindfocus" />
+            <item index="11" class="java.lang.String" itemvalue="bindblur" />
+            <item index="12" class="java.lang.String" itemvalue="bindinput" />
+            <item index="13" class="java.lang.String" itemvalue="bindmyevent" />
+            <item index="14" class="java.lang.String" itemvalue="color" />
+            <item index="15" class="java.lang.String" itemvalue="wx:for" />
+            <item index="16" class="java.lang.String" itemvalue="wx:for-item" />
+            <item index="17" class="java.lang.String" itemvalue="wx:for-index" />
+            <item index="18" class="java.lang.String" itemvalue="wx:if" />
+            <item index="19" class="java.lang.String" itemvalue="wx:elif" />
+            <item index="20" class="java.lang.String" itemvalue="wx:else" />
+            <item index="21" class="java.lang.String" itemvalue="wx:key" />
+            <item index="22" class="java.lang.String" itemvalue="is" />
+            <item index="23" class="java.lang.String" itemvalue="name" />
+            <item index="24" class="java.lang.String" itemvalue="hidden" />
+            <item index="25" class="java.lang.String" itemvalue="canvas-id" />
+            <item index="26" class="java.lang.String" itemvalue="mode" />
+            <item index="27" class="java.lang.String" itemvalue="scroll-x" />
+            <item index="28" class="java.lang.String" itemvalue="scroll-y" />
+            <item index="29" class="java.lang.String" itemvalue="upper-threshold" />
+            <item index="30" class="java.lang.String" itemvalue="lower-threshold" />
+            <item index="31" class="java.lang.String" itemvalue="bindconfirm" />
+            <item index="32" class="java.lang.String" itemvalue="bindscroll" />
+            <item index="33" class="java.lang.String" itemvalue="bindscrolltoupper" />
+            <item index="34" class="java.lang.String" itemvalue="bindscrolltolower" />
+            <item index="35" class="java.lang.String" itemvalue="src" />
+            <item index="36" class="java.lang.String" itemvalue="selectable" />
+            <item index="37" class="java.lang.String" itemvalue="open-type" />
+            <item index="38" class="java.lang.String" itemvalue="bindstop" />
+            <item index="39" class="java.lang.String" itemvalue="lazy-load" />
+            <item index="40" class="java.lang.String" itemvalue="bindgetuserinfo" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownBooleanAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <myValues>
+        <item value="redirect" />
+        <item value="class" />
+        <item value="style" />
+      </myValues>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="27">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="text" />
+            <item index="6" class="java.lang.String" itemvalue="script" />
+            <item index="7" class="java.lang.String" itemvalue="page" />
+            <item index="8" class="java.lang.String" itemvalue="toast" />
+            <item index="9" class="java.lang.String" itemvalue="picker" />
+            <item index="10" class="java.lang.String" itemvalue="slider" />
+            <item index="11" class="java.lang.String" itemvalue="modal" />
+            <item index="12" class="java.lang.String" itemvalue="checkbox" />
+            <item index="13" class="java.lang.String" itemvalue="progress" />
+            <item index="14" class="java.lang.String" itemvalue="icon" />
+            <item index="15" class="java.lang.String" itemvalue="image" />
+            <item index="16" class="java.lang.String" itemvalue="navigator" />
+            <item index="17" class="java.lang.String" itemvalue="loading" />
+            <item index="18" class="java.lang.String" itemvalue="switch" />
+            <item index="19" class="java.lang.String" itemvalue="block" />
+            <item index="20" class="java.lang.String" itemvalue="checkbox-group" />
+            <item index="21" class="java.lang.String" itemvalue="radio-group" />
+            <item index="22" class="java.lang.String" itemvalue="view" />
+            <item index="23" class="java.lang.String" itemvalue="scroll-view" />
+            <item index="24" class="java.lang.String" itemvalue="swiper" />
+            <item index="25" class="java.lang.String" itemvalue="cover-view" />
+            <item index="26" class="java.lang.String" itemvalue="slider" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
+      <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+    </inspection_tool>
+    <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
