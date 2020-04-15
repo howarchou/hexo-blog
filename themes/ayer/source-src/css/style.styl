@@ -1,0 +1,93 @@
+@import "_variables"
+@import "_mixins"
+@import "_remixicon"
+@import "_normalize"
+
+*,
+*::before
+*::after
+  box-sizing border-box
+
+html, body
+  height: 100%
+
+html
+  font-size font-size-browser
+  -webkit-text-size-adjust 100%
+  -ms-text-size-adjust 100%
+  -ms-overflow-style scrollbar
+  -webkit-tap-highlight-color transparent
+
+body
+  position relative
+  background-color body-background
+  font-family font-family-base
+  font-size font-size-base
+  line-height font-line-height
+  color body-color
+  padding 0
+  margin 0
+  overflow-x hidden
+  text-size-adjust: 100%
+  &.darkmode
+    background: rgba(0,0,0,.6)
+    *
+      color: darken(#fff,10%)
+    .article-entry code
+      background: darken(#ddd,10%) !important
+      color: #c7254e !important
+    .article-header .article-title,.share-outer i,.category-list .category-list-item i,.category-list a:hover .category-list-item,.article-date, .article-category .article-category-link, .archive-year-wrap .archive-year, .archive-article-date,a.toc-link,.tag-list > .tag-list-item:before,.article-tag-list:before
+      color: darken(#fff,10%) !important
+    .share-icons a i,.float_btns i,#reward .reward-p,#reward .reward-p i,.local-search-input
+      color: darken(#999,20%) !important
+    .v *
+      color: #555 !important
+    .tag-list > .tag-list-item .tag-list-link,.article-tag-list .article-tag-list-link
+      background: darken(#fff,10%) !important
+      color: #555 !important
+
+a
+  color link-color
+  &:hover
+    color link-hover-color
+  &:active
+    color link-active-color
+  &.disabled
+    color disabled-color
+ul, menu, dir
+  margin 0
+  padding 0
+img
+  max-width 100%
+
+button
+  outline: none
+  cursor pointer
+  
+@import "_extend"
+@import "_partial/layout"
+@import "_partial/lists"
+@import "_partial/categories"
+@import "_partial/tag"
+@import "_partial/ayer"
+@import "_partial/search"
+@import "_partial/article"
+@import "_partial/articles"
+@import "_partial/archive"
+@import "_partial/footer"
+@import "_partial/float"
+@import "_partial/highlight"
+@import "_partial/mobile"
+@import "_partial/pace"
+@import "_partial/gitalk"
+@import "_partial/apple"
+@import "_partial/reward"
+@import "_partial/share"
+
+if sidebar
+  @import "_partial/sidebar"
+
+// Media Query
+@media (max-width: 768px)
+  html
+    font-size: 60%

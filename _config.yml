@@ -3,21 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Howarchou
-subtitle: 'ce'
-author: 'Howar Chou'
+title: Howarchou'Blog
+subtitle: 'blog website'
+author: Howar Chou
+email: howarchou@sina.com
 language: 'zh-CN'
 timezone: 'Asia/Shanghai'
 
-# custom Site settings
-# more detail check out docs
-SEOTitle: Howarchou的博客
-header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
-email: howarchou@sina.com
-description: "howarchou 的博客，记录前端开发码农的日常点滴。"
-keyword: 'howarchou blog 程序员 前端开发' # seo key words
+keywords: 'howarchou 周哥 代码 博客 blog zhougg'
+description: 'howarchou的博客，一个搬砖程序猿的日常记录。'
 
-favicon: './favicon.ico' # your favicon png
+
+favicon: './favicon.ico' # your favicon
 # custom end
 
 # URL
@@ -27,21 +24,7 @@ root: /
 permalink: :category/:title/
 permalink_defaults:
 
-# SNS settings
-# RSS:
-weibo_username: howarchou
-zhihu_username: howarchou
-github_username: howarchou
-twitter_username:
-facebook_username:
-linkedin_username:
 
-# Build settings
-anchorjs: false                        # if you want to customize anchor. check out line:181 of `post.html`
-
-
-# Disqus settings
-disqus_username:
 
 # Duoshuo settings
 duoshuo_username:  # 你的多说帐号
@@ -61,34 +44,6 @@ valine:
   avatar: mm #评论列表默认头像样式
   placeholder: Just go go #评论框占位符
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id:
-# Google Analytics
-ga_track_id:             # Format: UA-xxxxxx-xx
-ga_domain:
-
-# Sidebar settings
-sidebar-about-description: # 个人描述
-sidebar-avatar:     # use absolute URL
-
-
-# Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-# friends
-friends:  # 友链
-
-# Directory
-source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
-skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -126,6 +81,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 
+# 是否启用搜索
+# 需要安装hexo-generator-searchdb(https://github.com/theme-next/hexo-generator-searchdb)
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+
 markdown:
   plugins:
     - markdown-it-abbr
@@ -136,25 +100,14 @@ markdown:
     - markdown-it-emoji
 
 ## Themes: https://hexo.io/themes/
-theme: Anisina
+theme: ayer
+
+
 
 
 
 # img CDN path
 cdn-url:  # 你的CDN地址
-
-# Qiniu imageView2 API
-# More info http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
-clip-content: "?imageView2/1/w/1400/h/400/interlace/1/q/90"
-clip-avatar: "?imageView2/2/w/300/h/300/interlace/1/q/90"
-clip-home-post-bg: "?imageView2/1/w/800/h/300/interlace/1/q/70"
-
-# post default images
-post-default-img: #博文默认的图片
-post-default-img-mobile: #移动端显示的图片
-
-# search api , set your custom key
-swiftype_key:
 
 
 # archive page title
