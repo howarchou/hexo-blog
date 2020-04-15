@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: 稻城美景
 date: 2020-04-15 17:08:39
 albums: [
         ["/images/g1.jpg", "album1"],

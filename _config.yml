@@ -99,6 +99,14 @@ markdown:
     - markdown-it-sup
     - markdown-it-emoji
 
+
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+
+
 ## Themes: https://hexo.io/themes/
 theme: ayer
 

@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebeabede-0f8a-4e40-a2cb-ffcac15371e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/Screenshots/Anisina.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/Screenshots/mobile-index.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/Screenshots/mobile-post.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/Screenshots/pc-index.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/Screenshots/pc-post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/Screenshots/poetry-show.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/de.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/default.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/en.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/es.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/no.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/pl.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/ru.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/zh-CN.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/languages/zh-TW.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/404.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/_partial/footer.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/_partial/head.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/_partial/nav.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/_partial/pagination.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/categories.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/index.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/layout.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/page.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/poetry.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/post.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/tags.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/layout/works.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/css/blog-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/css/syntax.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/js/blog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/js/jquery.tagcloud.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Anisina/source/js/totop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/photos/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/photos/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,20 +19,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="282">
+              <caret line="105" column="17" lean-forward="true" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/favicon.ico">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/ayer/logo.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -106,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/ayer/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="161" column="24" lean-forward="true" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+            <state relative-caret-position="345">
+              <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -137,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/source/photos/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <first_editor relative-caret-position="23">
+                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -146,10 +94,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/ayer/layout/_partial/head.ejs">
+        <entry file="file://$PROJECT_DIR$/.deploy_git/baidusitemap.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="52" />
+            <state relative-caret-position="230">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.deploy_git/search.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1375">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -158,7 +115,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;% =body</find>
       <find>body</find>
       <find>post_asset_folder</find>
       <find>theme</find>
@@ -188,6 +144,7 @@
       <find>ri-sun-line</find>
       <find>albums</find>
       <find>music</find>
+      <find>index_generator</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,8 +169,8 @@
         <option value="$PROJECT_DIR$/source/tags/index.md" />
         <option value="$PROJECT_DIR$/public/tags/hexo/index.html" />
         <option value="$PROJECT_DIR$/source/about/index.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/ayer/_config.yml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/source/photos/index.md" />
       </list>
     </option>
@@ -254,51 +211,18 @@
               <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="categories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="photos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="tags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ayer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ayer" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="howarchou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="howarchou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ayer" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="landscape" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -346,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.server">
+  <component name="RunManager" selected="npm.build">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -415,19 +339,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20003000" />
+    <option name="totallyTimeSpent" value="20732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989259" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989259" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -511,27 +435,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/hexo/lib/hexo/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="389" column="58" selection-start-line="389" selection-start-column="58" selection-end-line="389" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bluebird/js/release/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bluebird/js/release/map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bluebird/js/release/promise_array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -743,13 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/images/ayer-side.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -764,19 +660,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ayer/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/about/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ayer/source/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.deploy_git/CNAME">
@@ -796,25 +679,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/.deploy_git/baidusitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/search.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ayer/source/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="161">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/ayer/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="161" column="24" lean-forward="true" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
+        <state relative-caret-position="345">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="105" column="17" lean-forward="true" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/photos/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
