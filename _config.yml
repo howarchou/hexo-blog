@@ -57,7 +57,7 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: false
+  line_number: true
   auto_detect: false
   tab_replace:
 
@@ -110,12 +110,6 @@ index_generator:
 ## Themes: https://hexo.io/themes/
 theme: ayer
 
-
-
-
-
-# img CDN path
-cdn-url:  # 你的CDN地址
 
 
 # archive page title

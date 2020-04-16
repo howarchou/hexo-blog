@@ -13,7 +13,7 @@ categories:
 
 ### 1、GitHub创建个人仓库
 
-注册github账号，登录后，Create a new repository，输入repository name， 完整的仓库名格式：<user-name>/<repository-name>.github.io 格式，user-name为github的账号名，repository-name为仓库名。
+注册github账号，登录后，Create a new repository，输入repository name， 完整的仓库名格式：[user-name]/[repository-name].github.io 格式，user-name为github的账号名，repository-name为仓库名。
 
 ### 2、全局安装hexo
 打开cmd，输入如下命令：
