@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebeabede-0f8a-4e40-a2cb-ffcac15371e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/page-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/page-4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/ayer/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer/source/images/ayer-side.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/source/images/ayer-side.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer/source/images/ayer.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/source/images/ayer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer/source/images/ayer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/source/images/ayer.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <recent name="E:\github\howarchou.github.io\themes\Anisina" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.create">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -173,7 +173,8 @@
       <workItem from="1587023240241" duration="7039000" />
       <workItem from="1587438046593" duration="5017000" />
       <workItem from="1588122814470" duration="375000" />
-      <workItem from="1588123314398" duration="225000" />
+      <workItem from="1588123314398" duration="2111000" />
+      <workItem from="1588209864115" duration="720000" />
     </task>
     <servers />
   </component>
@@ -186,30 +187,30 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1588123512925">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1588131328997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588123512925" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1588123512924">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588131328997" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1588131328997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588123512924" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1588123512924">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588131328997" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1588131328997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588123512924" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1588123512924">
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588131328997" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1588131328997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588123512924" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588131328997" />
     <state x="461" y="302" key="SettingsEditor" timestamp="1588123384646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="302" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588123384646" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588122865704">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588212442365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588122865704" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588212442365" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
